@@ -1,0 +1,16 @@
+{
+  "name": "ppsb",
+  "compatibility_date": "2024-12-30",
+  "assets": { 
+     "not_found_handling": "single-page-application",
+    "binding": "ASSETS" 
+  },
+  "main": "./api/index.ts",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ppsb",
+      "database_id": "3b5e33dc-27d6-4e5c-a785-46106e404917"
+    }
+  ]
+}
